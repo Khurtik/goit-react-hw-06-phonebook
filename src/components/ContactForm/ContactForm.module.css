@@ -1,0 +1,29 @@
+.contactForm {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.inputName,
+.inputNumber {
+  width: 100%;
+  padding: 10px 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+.label {
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.formBtn {
+  padding: 2px;
+  background-color: rgb(61, 98, 201);
+  color: white;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  outline: none;
+  border-radius: 5px;
+}
