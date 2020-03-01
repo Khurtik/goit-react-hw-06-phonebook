@@ -1,0 +1,7 @@
+const Types = {
+  ADD_CONTACT: 'ADD_CONTACT',
+  DELETE_CONTACT: 'DELETE_CONTACT',
+  FILTER_CONTACT: 'FILTER_CONTACT',
+};
+
+export default Types;
